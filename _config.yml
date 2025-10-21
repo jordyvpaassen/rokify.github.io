@@ -8,7 +8,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Rokify # add your name
-author-img: /img/rokify.png # add your photo
+author-img: rokify.png # add your photo
 about-author: We are a team of product enthusiasts dedicated to helping you find the best products online. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
