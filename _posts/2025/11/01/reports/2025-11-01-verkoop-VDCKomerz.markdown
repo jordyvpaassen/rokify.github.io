@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Côte d'Or - Premium Producten Online Shop"
-date: 2025-11-01 10:53:05 +0200
+date: 2025-11-01 11:02:25 +0200
 description: "Shop de beste VDCKomerz producten online. Van €3,75 tot €114,95. Gratis verzending, 30 dagen retour en de laagste prijsgarantie."
 excerpt: "Ontdek onze selectie van 825 VDCKomerz producten. Topkwaliteit, scherpe prijzen en snelle levering."
 tags: [Côted'Or, shop, online-winkel, bestsellers, aanbiedingen]
 categories: [webshop, producten]
 keywords: "VDCKomerz kopen, VDCKomerz shop, VDCKomerz aanbieding, online winkel"
 author: Webshop Manager
-canonical_url: "/verkoop-VDCKomerz-105305"
+canonical_url: "/verkoop-VDCKomerz-110225"
 sitemap:
   priority: 1.0
   changefreq: daily
@@ -27,11 +27,8 @@ met prijzen vanaf **€3,75**. ✨ Gratis verzending vanaf €50 • 🚚 Snelle
 
 ### 🏆 #1 Bestseller
 
-[![Haribo Starmix ULTRA snoepzakjes box - strooigoed - 400 zakjes - 10kg](https://www.vandeca.com/food/?tt=34182_2145159_69238_&r=https%3A%2F%2Fwww.vandeca.com%2Fnl%2Fharibo-starmix-ultra-snoepzakjes-box---strooigoed---400-zakjes---10kg)](https://www.vandeca.com/food/?tt=34182_2145159_69238_&r=https%3A%2F%2Fwww.vandeca.com%2Fnl%2Fharibo-starmix-ultra-snoepzakjes-box---strooigoed---400-zakjes---10kg)
 
-**[🛍️ Haribo Starmix ULTRA snoepzakjes box - strooigoed - 400 zakjes - 10kg](https://www.vandeca.com/food/?tt=34182_2145159_69238_&r=https%3A%2F%2Fwww.vandeca.com%2Fnl%2Fharibo-starmix-ultra-snoepzakjes-box---strooigoed---400-zakjes---10kg)**
-
-💰 **Speciale Prijs: €114,95** ~~€137,94~~ *(17% korting!)*
+💰 **Speciale Prijs: €114,95**
 
 🏷️ **Merk:** Haribo
 📦 **Product ID:** 5221-1
@@ -44,11 +41,8 @@ met prijzen vanaf **€3,75**. ✨ Gratis verzending vanaf €50 • 🚚 Snelle
 
 ### 🏆 #2 Bestseller
 
-[![Libeert chocoladefiguren voor Sinterklaas - 100 stuks (15g) - 1500g](https://www.vandeca.com/food/?tt=34182_2145159_69238_&r=https%3A%2F%2Fwww.vandeca.com%2Fnl%2Flibeert-chocoladefiguren-voor-sinterklaas---100-stuks-15g---1500g)](https://www.vandeca.com/food/?tt=34182_2145159_69238_&r=https%3A%2F%2Fwww.vandeca.com%2Fnl%2Flibeert-chocoladefiguren-voor-sinterklaas---100-stuks-15g---1500g)
 
-**[🛍️ Libeert chocoladefiguren voor Sinterklaas - 100 stuks (15g) - 1500g](https://www.vandeca.com/food/?tt=34182_2145159_69238_&r=https%3A%2F%2Fwww.vandeca.com%2Fnl%2Flibeert-chocoladefiguren-voor-sinterklaas---100-stuks-15g---1500g)**
-
-💰 **Speciale Prijs: €87,95** ~~€105,54~~ *(17% korting!)*
+💰 **Speciale Prijs: €87,95**
 
 🏷️ **Merk:** Libeert
 📦 **Product ID:** 5705-1
@@ -61,11 +55,8 @@ met prijzen vanaf **€3,75**. ✨ Gratis verzending vanaf €50 • 🚚 Snelle
 
 ### 🏆 #3 Bestseller
 
-[![Côte d'Or Mini Bouchée melkchocolade met praliné - 2kg](https://www.vandeca.com/food/?tt=34182_2145159_69238_&r=https%3A%2F%2Fwww.vandeca.com%2Fnl%2Fcote-dor-mini-bouchee-melkchocolade-met-praline---2kg)](https://www.vandeca.com/food/?tt=34182_2145159_69238_&r=https%3A%2F%2Fwww.vandeca.com%2Fnl%2Fcote-dor-mini-bouchee-melkchocolade-met-praline---2kg)
 
-**[🛍️ Côte d'Or Mini Bouchée melkchocolade met praliné - 2kg](https://www.vandeca.com/food/?tt=34182_2145159_69238_&r=https%3A%2F%2Fwww.vandeca.com%2Fnl%2Fcote-dor-mini-bouchee-melkchocolade-met-praline---2kg)**
-
-💰 **Speciale Prijs: €57,49** ~~€68,99~~ *(17% korting!)*
+💰 **Speciale Prijs: €57,49**
 
 🏷️ **Merk:** Côte d'Or
 📦 **Product ID:** 3016-1
@@ -78,11 +69,8 @@ met prijzen vanaf **€3,75**. ✨ Gratis verzending vanaf €50 • 🚚 Snelle
 
 ### 🏆 #4 Bestseller
 
-[![Guylian Temptations Original Seahorses - 2500g](https://www.vandeca.com/food/?tt=34182_2145159_69238_&r=https%3A%2F%2Fwww.vandeca.com%2Fnl%2Fguylian-temptations-original-seahorses---2500g)](https://www.vandeca.com/food/?tt=34182_2145159_69238_&r=https%3A%2F%2Fwww.vandeca.com%2Fnl%2Fguylian-temptations-original-seahorses---2500g)
 
-**[🛍️ Guylian Temptations Original Seahorses - 2500g](https://www.vandeca.com/food/?tt=34182_2145159_69238_&r=https%3A%2F%2Fwww.vandeca.com%2Fnl%2Fguylian-temptations-original-seahorses---2500g)**
-
-💰 **Speciale Prijs: €79,95** ~~€95,94~~ *(17% korting!)*
+💰 **Speciale Prijs: €79,95**
 
 🏷️ **Merk:** Guylian
 📦 **Product ID:** 5551-1
@@ -95,11 +83,8 @@ met prijzen vanaf **€3,75**. ✨ Gratis verzending vanaf €50 • 🚚 Snelle
 
 ### 🏆 #5 Bestseller
 
-[![KitKat Mini Mix Party Pack - 1788g](https://www.vandeca.com/food/?tt=34182_2145159_69238_&r=https%3A%2F%2Fwww.vandeca.com%2Fnl%2Fkitkat-mini-mix-party-pack---1788g)](https://www.vandeca.com/food/?tt=34182_2145159_69238_&r=https%3A%2F%2Fwww.vandeca.com%2Fnl%2Fkitkat-mini-mix-party-pack---1788g)
 
-**[🛍️ KitKat Mini Mix Party Pack - 1788g](https://www.vandeca.com/food/?tt=34182_2145159_69238_&r=https%3A%2F%2Fwww.vandeca.com%2Fnl%2Fkitkat-mini-mix-party-pack---1788g)**
-
-💰 **Speciale Prijs: €59,45** ~~€71,34~~ *(17% korting!)*
+💰 **Speciale Prijs: €59,45**
 
 🏷️ **Merk:** KitKat
 📦 **Product ID:** 5378-1
@@ -110,11 +95,8 @@ met prijzen vanaf **€3,75**. ✨ Gratis verzending vanaf €50 • 🚚 Snelle
 
 ### 🏆 #6 Bestseller
 
-[![Côte d'Or Mignonnette melk in luxe magneetdoos - 200 stuks - 2kg](https://www.vandeca.com/food/?tt=34182_2145159_69238_&r=https%3A%2F%2Fwww.vandeca.com%2Fnl%2Fcote-dor-mignonnette-melk-in-luxe-magneetdoos---200-stuks---2kg)](https://www.vandeca.com/food/?tt=34182_2145159_69238_&r=https%3A%2F%2Fwww.vandeca.com%2Fnl%2Fcote-dor-mignonnette-melk-in-luxe-magneetdoos---200-stuks---2kg)
 
-**[🛍️ Côte d'Or Mignonnette melk in luxe magneetdoos - 200 stuks - 2kg](https://www.vandeca.com/food/?tt=34182_2145159_69238_&r=https%3A%2F%2Fwww.vandeca.com%2Fnl%2Fcote-dor-mignonnette-melk-in-luxe-magneetdoos---200-stuks---2kg)**
-
-💰 **Speciale Prijs: €49,95** ~~€59,94~~ *(17% korting!)*
+💰 **Speciale Prijs: €49,95**
 
 🏷️ **Merk:** Côte d'Or
 📦 **Product ID:** 5383-1
@@ -223,7 +205,7 @@ met prijzen vanaf **€3,75**. ✨ Gratis verzending vanaf €50 • 🚚 Snelle
 
 ---
 
-**🕒 Laatste Update:** 01 November 2025, 10:53  
+**🕒 Laatste Update:** 01 November 2025, 11:02  
 **📦 Producten beschikbaar:** 825  
 **💰 Prijsbereik:** €3,75 - €114,95  
 
