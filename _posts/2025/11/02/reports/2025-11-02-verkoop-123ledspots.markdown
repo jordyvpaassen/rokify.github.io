@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "123ledspots - Premium Producten Online Shop"
-date: 2025-11-02 11:33:47 +0200
+date: 2025-11-02 21:37:15 +0200
 description: "Shop de beste 123ledspots producten online. Van €1,79 tot €239,95. Gratis verzending, 30 dagen retour en de laagste prijsgarantie."
 excerpt: "Ontdek onze selectie van 365 123ledspots producten. Topkwaliteit, scherpe prijzen en snelle levering."
 tags: [Philips, shop, online-winkel, bestsellers, aanbiedingen]
 categories: [webshop, producten]
 keywords: "123ledspots kopen, 123ledspots shop, 123ledspots aanbieding, online winkel"
 author: Webshop Manager
-canonical_url: "/verkoop-123ledspots-113340"
+canonical_url: "/verkoop-123ledspots-213715"
 sitemap:
   priority: 1.0
   changefreq: daily
@@ -32,11 +32,11 @@ met prijzen vanaf **€1,79**. ✨ Gratis verzending vanaf €50 • 🚚 Snelle
 💰 **Speciale Prijs: €239,95**
 
 🏷️ **Merk:** Premium
-📦 **Product ID:** 144308009
+📦 **Product ID:** 144308072
 
 📝 *\* Zigbee Compatible\* Maak je huis slim \* Bijna alle kleuren mogelijk*
 
-[🛒 **NU BESTELLEN**](https://www.123ledspots.nl/tracking/tradetracker/redirect/?tt=37386_2215357_69238_&r=https%3A%2F%2Fwww.123ledspots.nl%2Fstarterset-smartverlichting-kleuren-inbouw-spots-m.html%3Fsource%3Dtradetracker){: .btn .btn-primary .btn-lg}
+[🛒 **NU BESTELLEN**](https://www.123ledspots.nl/tracking/tradetracker/redirect/?tt=37386_2215357_69238_&r=https%3A%2F%2Fwww.123ledspots.nl%2Fstarterset-smartverlichting-6x-kleuren-inbouw.html%3Fsource%3Dtradetracker){: .btn .btn-primary .btn-lg}
 
 ---
 
@@ -57,6 +57,51 @@ met prijzen vanaf **€1,79**. ✨ Gratis verzending vanaf €50 • 🚚 Snelle
 
 ### 🏆 #3 Bestseller
 
+**🛍️ Starterset Smartverlichting : 6x Kleuren inbouw spots met Bridge**
+
+💰 **Speciale Prijs: €239,95**
+
+🏷️ **Merk:** Premium
+📦 **Product ID:** 144308009
+
+📝 *\* Zigbee Compatible\* Maak je huis slim \* Bijna alle kleuren mogelijk*
+
+[🛒 **NU BESTELLEN**](https://www.123ledspots.nl/tracking/tradetracker/redirect/?tt=37386_2215357_69238_&r=https%3A%2F%2Fwww.123ledspots.nl%2Fstarterset-smartverlichting-kleuren-inbouw-spots-m.html%3Fsource%3Dtradetracker){: .btn .btn-primary .btn-lg}
+
+---
+
+### 🏆 #4 Bestseller
+
+**🛍️ Ansell Set van 6 stuks Smart Inbouwspot - RGB & Dimtone**
+
+💰 **Speciale Prijs: €211,00**
+
+🏷️ **Merk:** Ansell
+📦 **Product ID:** 118465337
+
+📝 *\* WiFi en Bluetooth\* Bedienen met de app\* Richtbaar\* Alle kleuren mogelijk*
+
+[🛒 **NU BESTELLEN**](https://www.123ledspots.nl/tracking/tradetracker/redirect/?tt=37386_2215357_69238_&r=https%3A%2F%2Fwww.123ledspots.nl%2Fset-van-6-stuks-witte-wifi-rgb-en-dimtone-spots.html%3Fsource%3Dtradetracker){: .btn .btn-primary .btn-lg}
+
+---
+
+### 🏆 #5 Bestseller
+
+**🛍️ Ansell Set van 6 stuks RVS Wifi. RGB en dimtone spots, 5,5 W**
+
+💰 **Speciale Prijs: €211,00**
+
+🏷️ **Merk:** Ansell
+📦 **Product ID:** 118465892
+
+📝 *\* Bedienbaar via app of afstandsbediening\* Lichtkleur: RGB en dimtone \* DimbaarRVS Kleur*
+
+[🛒 **NU BESTELLEN**](https://www.123ledspots.nl/tracking/tradetracker/redirect/?tt=37386_2215357_69238_&r=https%3A%2F%2Fwww.123ledspots.nl%2Fset-van-6-stuks-rvs-wifi-rgb-en-dimtone-spots-55-w.html%3Fsource%3Dtradetracker){: .btn .btn-primary .btn-lg}
+
+---
+
+### 🏆 #6 Bestseller
+
 **🛍️ Set van 6 stuks Badkamer LEDspot Venetië, IP65**
 
 💰 **Speciale Prijs: €219,75**
@@ -70,51 +115,6 @@ met prijzen vanaf **€1,79**. ✨ Gratis verzending vanaf €50 • 🚚 Snelle
 
 ---
 
-### 🏆 #4 Bestseller
-
-**🛍️ Set van 6 stuks Badkamer LEDspot Venetië, IP65**
-
-💰 **Speciale Prijs: €219,75**
-
-🏷️ **Merk:** Premium
-📦 **Product ID:** 120345234
-
-📝 *\* Badkamer geschikt\* Dimbaar\* Lichtkleur: Warm wit\* RVS Kleur*
-
-[🛒 **NU BESTELLEN**](https://www.123ledspots.nl/tracking/tradetracker/redirect/?tt=37386_2215357_69238_&r=https%3A%2F%2Fwww.123ledspots.nl%2Fset-van-6-stuks-badkamer-ledspot-venetie-120345234.html%3Fsource%3Dtradetracker){: .btn .btn-primary .btn-lg}
-
----
-
-### 🏆 #5 Bestseller
-
-**🛍️ Starterset Smartverlichting : 6x Kleuren inbouw spots met Bridge**
-
-💰 **Speciale Prijs: €239,95**
-
-🏷️ **Merk:** Premium
-📦 **Product ID:** 144308072
-
-📝 *\* Zigbee Compatible\* Maak je huis slim \* Bijna alle kleuren mogelijk*
-
-[🛒 **NU BESTELLEN**](https://www.123ledspots.nl/tracking/tradetracker/redirect/?tt=37386_2215357_69238_&r=https%3A%2F%2Fwww.123ledspots.nl%2Fstarterset-smartverlichting-6x-kleuren-inbouw.html%3Fsource%3Dtradetracker){: .btn .btn-primary .btn-lg}
-
----
-
-### 🏆 #6 Bestseller
-
-**🛍️ Ansell Set van 6 stuks Smart Inbouwspot Zwart - RGB & Dimtone**
-
-💰 **Speciale Prijs: €211,00**
-
-🏷️ **Merk:** Ansell
-📦 **Product ID:** 116187167
-
-📝 *\* WiFi en Bluetooth\* Bedienen met de app\* Richtbaar\* Alle kleuren mogelijk*
-
-[🛒 **NU BESTELLEN**](https://www.123ledspots.nl/tracking/tradetracker/redirect/?tt=37386_2215357_69238_&r=https%3A%2F%2Fwww.123ledspots.nl%2Fset-van-6-stuks-zwarte-wifi-rgb-en-dimtone-spots-5.html%3Fsource%3Dtradetracker){: .btn .btn-primary .btn-lg}
-
----
-
 ## 💎 Premium Collectie
 
 *Voor de veeleisende klant - onze exclusieve top-tier producten*
@@ -123,7 +123,7 @@ met prijzen vanaf **€1,79**. ✨ Gratis verzending vanaf €50 • 🚚 Snelle
 |---|
 | **Prijs:** €239,95 |
 | **Merk:** Premium |
-| [🛒 **Bestel Nu**](https://www.123ledspots.nl/tracking/tradetracker/redirect/?tt=37386_2215357_69238_&r=https%3A%2F%2Fwww.123ledspots.nl%2Fstarterset-smartverlichting-kleuren-inbouw-spots-m.html%3Fsource%3Dtradetracker) |
+| [🛒 **Bestel Nu**](https://www.123ledspots.nl/tracking/tradetracker/redirect/?tt=37386_2215357_69238_&r=https%3A%2F%2Fwww.123ledspots.nl%2Fstarterset-smartverlichting-6x-kleuren-inbouw.html%3Fsource%3Dtradetracker) |
 
 | 🌟 **Starterset Smartverlichting : 6x Kleuren inbouw spots met Bridge** |
 |---|
@@ -135,7 +135,7 @@ met prijzen vanaf **€1,79**. ✨ Gratis verzending vanaf €50 • 🚚 Snelle
 |---|
 | **Prijs:** €239,95 |
 | **Merk:** Premium |
-| [🛒 **Bestel Nu**](https://www.123ledspots.nl/tracking/tradetracker/redirect/?tt=37386_2215357_69238_&r=https%3A%2F%2Fwww.123ledspots.nl%2Fstarterset-smartverlichting-6x-kleuren-inbouw.html%3Fsource%3Dtradetracker) |
+| [🛒 **Bestel Nu**](https://www.123ledspots.nl/tracking/tradetracker/redirect/?tt=37386_2215357_69238_&r=https%3A%2F%2Fwww.123ledspots.nl%2Fstarterset-smartverlichting-kleuren-inbouw-spots-m.html%3Fsource%3Dtradetracker) |
 
 | 🌟 **Set van 6 stuks Badkamer LEDspot Venetië, IP65** |
 |---|
@@ -147,25 +147,25 @@ met prijzen vanaf **€1,79**. ✨ Gratis verzending vanaf €50 • 🚚 Snelle
 |---|
 | **Prijs:** €219,75 |
 | **Merk:** Premium |
-| [🛒 **Bestel Nu**](https://www.123ledspots.nl/tracking/tradetracker/redirect/?tt=37386_2215357_69238_&r=https%3A%2F%2Fwww.123ledspots.nl%2Fset-van-6-stuks-badkamer-ledspot-venetie-120345234.html%3Fsource%3Dtradetracker) |
+| [🛒 **Bestel Nu**](https://www.123ledspots.nl/tracking/tradetracker/redirect/?tt=37386_2215357_69238_&r=https%3A%2F%2Fwww.123ledspots.nl%2Fset-van-6-stuks-badkamer-ledspot-venetie-dimbaar.html%3Fsource%3Dtradetracker) |
 
 | 🌟 **Set van 6 stuks Badkamer LEDspot Venetië, IP65** |
 |---|
 | **Prijs:** €219,75 |
 | **Merk:** Premium |
-| [🛒 **Bestel Nu**](https://www.123ledspots.nl/tracking/tradetracker/redirect/?tt=37386_2215357_69238_&r=https%3A%2F%2Fwww.123ledspots.nl%2Fset-van-6-stuks-badkamer-ledspot-venetie-dimbaar.html%3Fsource%3Dtradetracker) |
-
-| 🌟 **Ansell Set van 6 stuks Smart Inbouwspot Zwart - RGB & Dimtone** |
-|---|
-| **Prijs:** €211,00 |
-| **Merk:** Ansell |
-| [🛒 **Bestel Nu**](https://www.123ledspots.nl/tracking/tradetracker/redirect/?tt=37386_2215357_69238_&r=https%3A%2F%2Fwww.123ledspots.nl%2Fset-van-6-stuks-zwarte-wifi-rgb-en-dimtone-spots-5.html%3Fsource%3Dtradetracker) |
+| [🛒 **Bestel Nu**](https://www.123ledspots.nl/tracking/tradetracker/redirect/?tt=37386_2215357_69238_&r=https%3A%2F%2Fwww.123ledspots.nl%2Fset-van-6-stuks-badkamer-ledspot-venetie-120345234.html%3Fsource%3Dtradetracker) |
 
 | 🌟 **Ansell Set van 6 stuks Smart Inbouwspot - RGB & Dimtone** |
 |---|
 | **Prijs:** €211,00 |
 | **Merk:** Ansell |
 | [🛒 **Bestel Nu**](https://www.123ledspots.nl/tracking/tradetracker/redirect/?tt=37386_2215357_69238_&r=https%3A%2F%2Fwww.123ledspots.nl%2Fset-van-6-stuks-witte-wifi-rgb-en-dimtone-spots.html%3Fsource%3Dtradetracker) |
+
+| 🌟 **Ansell Set van 6 stuks RVS Wifi. RGB en dimtone spots, 5,5 W** |
+|---|
+| **Prijs:** €211,00 |
+| **Merk:** Ansell |
+| [🛒 **Bestel Nu**](https://www.123ledspots.nl/tracking/tradetracker/redirect/?tt=37386_2215357_69238_&r=https%3A%2F%2Fwww.123ledspots.nl%2Fset-van-6-stuks-rvs-wifi-rgb-en-dimtone-spots-55-w.html%3Fsource%3Dtradetracker) |
 
 ## 💝 Budget Vriendelijk
 
@@ -213,7 +213,7 @@ met prijzen vanaf **€1,79**. ✨ Gratis verzending vanaf €50 • 🚚 Snelle
 
 ---
 
-**🕒 Laatste Update:** 01 November 2025, 11:33  
+**🕒 Laatste Update:** 02 November 2025, 21:37  
 **📦 Producten beschikbaar:** 365  
 **💰 Prijsbereik:** €1,79 - €239,95  
 
