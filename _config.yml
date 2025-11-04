@@ -3,7 +3,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Rokify is your go-to platform for discovering and reviewing the best products online. As a dedicated product review website, we specialize in providing honest, in-depth reviews of products featured on TradeTracker. Our mission is to help you make informed purchasing decisions by offering expert insights, user ratings, and comprehensive comparisons. Whether you're searching for the latest tech gadgets, home essentials, or lifestyle products, Rokify ensures you have all the information you need to choose wisely.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://www.rokify.nl/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.rokify.nl" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
